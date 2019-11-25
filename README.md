@@ -46,10 +46,12 @@ Now continue with terminal prompts and you are finished.
 
 Preview: 
 
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/gF81Fg6HJ7aV0ItrpJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gF81Fg6HJ7aV0ItrpJ">via GIPHY</a></p
+<video width="460" height="380">
+  <source src="preview/preview.mov">
+</video>
 
 Screen Shots:
-<img src="modules/screenshot.png">
+<img src="perview/screenshot.png">
 
 
 

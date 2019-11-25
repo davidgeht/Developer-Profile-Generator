@@ -46,12 +46,12 @@ Now continue with terminal prompts and you are finished.
 
 Preview: 
 
-<video width="460" height="380">
-  <source src="preview/preview.mov">
+<video width="660" height="500">
+  <source src="Preview/preview.mov">
 </video>
 
 Screen Shots:
-<img src="perview/screenshot.png">
+<img src="Preview/screenshot.png">
 
 
 

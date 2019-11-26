@@ -45,10 +45,7 @@ Once the steps are completed and the npm packages have been installed continue w
 Now continue with terminal prompts and you are finished. 
 
 Preview: 
-
-<video width="660" height="500">
-  <source src="Preview/preview.mov">
-</video>
+<img src="Preview/preview.gif">
 
 Screen Shots:
 <img src="Preview/screenshot.png">
